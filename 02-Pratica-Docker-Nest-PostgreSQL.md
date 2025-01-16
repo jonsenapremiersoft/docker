@@ -1,7 +1,7 @@
 # Exercício Prático de Docker
 
 ## Introdução
-Este exercício irá guiá-lo na criação de uma aplicação web usando Docker. Vamos construir uma API simples com NestJS (um framework Node.js) e PostgreSQL. Não se preocupe se você não conhece todas as tecnologias - vamos explicar cada parte importante.
+Este exercício irá guiá-lo na criação de uma aplicação web usando Docker. Vamos construir uma API simples com NestJS e PostgreSQL.
 
 ## Por que usar Docker?
 
@@ -9,7 +9,7 @@ Este exercício irá guiá-lo na criação de uma aplicação web usando Docker.
 - **Isolamento**: Cada parte da aplicação fica separada e organizada
 - **Facilidade**: Não precisa instalar banco de dados ou outras ferramentas localmente
 
-## Pré-requisitos Detalhados
+## Pré-requisitos
 
 ### 1. Docker
 - O Docker é o container engine que vamos usar
