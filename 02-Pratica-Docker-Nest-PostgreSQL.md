@@ -33,20 +33,8 @@ Este exercício irá guiá-lo na criação de uma aplicação web usando Docker.
 - Baixe em: https://nodejs.org/
 - Versão recomendada: 18.x ou superior
 
-### 4. Editor de Código
-- Recomendamos VS Code: https://code.visualstudio.com/
-- Instale as extensões:
-  - Docker
-  - Remote Containers
-  - TypeScript
 
 ## Passo 1: Criando o Projeto Base
-
-### Por que NestJS?
-NestJS é um framework Node.js moderno que facilita a criação de APIs organizadas. Vamos usá-lo porque:
-- Tem boa integração com TypeScript
-- Estrutura bem organizada
-- Fácil de adicionar banco de dados
 
 ### Criando o Projeto
 
